@@ -1,2 +1,14 @@
 # wwwhot-2026worldcup-journal
-HTML page archive and documentation
+
+仓库页面索引说明
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
